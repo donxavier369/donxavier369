@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Don Xavier</h1>
+<h1 align="center">Hi 👋, I'm Don Xavier.</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
 
