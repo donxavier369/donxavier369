@@ -8,7 +8,7 @@
 ![rz-ds-project](https://github.com/donxavier369/donxavier369/assets/127040819/2874ac21-a973-482c-a5b5-4a2cf8582ad1)
 
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/rz-ds-project-gif-24176703">
+<img align="right" alt="Coding" width="400" src="https://github.com/donxavier369/donxavier369/assets/127040819/2874ac21-a973-482c-a5b5-4a2cf8582ad1">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donxavier369&label=Profile%20views&color=0e75b6&style=flat" alt="donxavier369" /> </p>
